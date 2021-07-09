@@ -11,3 +11,4 @@
 ## ETC
 
 - [정식 사양 출시! JavaScript의 최신 사양 ES2021에 추가 된 새로운 기능 정리](https://zenn.dev/tonkotsuboy_com/articles/es2021-whats-new)
+- [페이지를 빠르게 표시하려면 "CSS in JS"라고 보통 CSS의 어느 쪽을 사용 하는가? - GIGAZINE](https://gigazine.net/news/20210625-css-in-js-performance/)
