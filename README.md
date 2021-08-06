@@ -12,6 +12,10 @@
 
 - [Node.js Undici](https://undici.nodejs.org/#/)
 
+## CSS
+
+- [The New CSS Reset | the-new-css-reset](https://elad2412.github.io/the-new-css-reset/)
+
 ## ETC
 
 - [정식 사양 출시! JavaScript의 최신 사양 ES2021에 추가 된 새로운 기능 정리](https://zenn.dev/tonkotsuboy_com/articles/es2021-whats-new)
